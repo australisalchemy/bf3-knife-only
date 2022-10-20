@@ -1,0 +1,4 @@
+22:51:34 	KICK	[GeneralScholz] used 	M67
+
+23:09:21 	KICK	[Zomb1ego] used 	Weapons/AK74M/AK74
+

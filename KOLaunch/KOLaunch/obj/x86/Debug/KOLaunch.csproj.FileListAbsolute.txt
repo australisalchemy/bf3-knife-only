@@ -1,0 +1,9 @@
+G:\dev\knifeonly\KOLaunch\KOLaunch\bin\Debug\KOLaunch.exe
+G:\dev\knifeonly\KOLaunch\KOLaunch\bin\Debug\KOLaunch.pdb
+G:\dev\knifeonly\KOLaunch\KOLaunch\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\dev\knifeonly\KOLaunch\KOLaunch\obj\x86\Debug\KOLaunch.exe
+G:\dev\knifeonly\KOLaunch\KOLaunch\obj\x86\Debug\KOLaunch.pdb
+G:\dev\knifeonly\KOLaunch\KOLaunch\bin\Debug\KOLaunch.exe.config
+Q:\dev\knifeonly\KOLaunch\KOLaunch\bin\Debug\KOLaunch.exe.config
+Q:\dev\knifeonly\KOLaunch\KOLaunch\obj\x86\Debug\KOLaunch.exe
+Q:\dev\knifeonly\KOLaunch\KOLaunch\obj\x86\Debug\KOLaunch.pdb

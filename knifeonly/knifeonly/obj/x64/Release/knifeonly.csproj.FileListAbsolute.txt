@@ -1,0 +1,11 @@
+G:\dev\knifeonly\knifeonly\knifeonly\bin\x64\Release\knifeonly.exe.config
+G:\dev\knifeonly\knifeonly\knifeonly\bin\x64\Release\knifeonly.exe.manifest
+G:\dev\knifeonly\knifeonly\knifeonly\bin\x64\Release\knifeonly.application
+G:\dev\knifeonly\knifeonly\knifeonly\bin\x64\Release\knifeonly.exe
+G:\dev\knifeonly\knifeonly\knifeonly\bin\x64\Release\knifeonly.pdb
+G:\dev\knifeonly\knifeonly\knifeonly\obj\x64\Release\ResolveAssemblyReference.cache
+G:\dev\knifeonly\knifeonly\knifeonly\obj\x64\Release\knifeonly.TrustInfo.xml
+G:\dev\knifeonly\knifeonly\knifeonly\obj\x64\Release\knifeonly.exe.manifest
+G:\dev\knifeonly\knifeonly\knifeonly\obj\x64\Release\knifeonly.application
+G:\dev\knifeonly\knifeonly\knifeonly\obj\x64\Release\knifeonly.exe
+G:\dev\knifeonly\knifeonly\knifeonly\obj\x64\Release\knifeonly.pdb

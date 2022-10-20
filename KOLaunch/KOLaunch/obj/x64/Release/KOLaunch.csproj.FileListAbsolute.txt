@@ -1,0 +1,12 @@
+G:\dev\knifeonly\KOLaunch\KOLaunch\bin\x64\Release\KOLaunch.exe
+G:\dev\knifeonly\KOLaunch\KOLaunch\bin\x64\Release\KOLaunch.pdb
+G:\dev\knifeonly\KOLaunch\KOLaunch\obj\x64\Release\ResolveAssemblyReference.cache
+G:\dev\knifeonly\KOLaunch\KOLaunch\obj\x64\Release\KOLaunch.exe
+G:\dev\knifeonly\KOLaunch\KOLaunch\obj\x64\Release\KOLaunch.pdb
+G:\dev\knifeonly\KOLaunch\KOLaunch\bin\x64\Release\KOLaunch.exe.config
+Q:\dev\knifeonly\KOLaunch\KOLaunch\bin\x64\Release\KOLaunch.exe.config
+Q:\dev\knifeonly\KOLaunch\KOLaunch\bin\x64\Release\KOLaunch.exe
+Q:\dev\knifeonly\KOLaunch\KOLaunch\bin\x64\Release\KOLaunch.pdb
+Q:\dev\knifeonly\KOLaunch\KOLaunch\obj\x64\Release\ResolveAssemblyReference.cache
+Q:\dev\knifeonly\KOLaunch\KOLaunch\obj\x64\Release\KOLaunch.exe
+Q:\dev\knifeonly\KOLaunch\KOLaunch\obj\x64\Release\KOLaunch.pdb

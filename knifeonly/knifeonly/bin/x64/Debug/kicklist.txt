@@ -1,0 +1,4 @@
+22:35:02 	KICK	[wptn44] used 	Weapons/MP443/MP443
+
+22:42:19 	KICK	[0rv1s] used 	M1911
+
